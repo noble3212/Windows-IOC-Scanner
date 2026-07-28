@@ -2,7 +2,7 @@
 
 A PowerShell-based Windows malware detection and incident response scanner designed to identify indicators commonly associated with **RATs (Remote Access Trojans), clipboard stealers (clippers), persistence malware, and fake system-process malware**.
 
-This project was created from real-world malware investigation patterns and focuses on finding suspicious behavior rather than relying only on file hashes or antivirus signatures. For windows automation scripts follow the project: 
+This project was created from real-world malware investigation patterns and focuses on finding suspicious behavior rather than relying only on file hashes or antivirus signatures. For windows automation scripts follow the project: https://github.com/noble3212/WindowsAutomation.git
 
 > ⚠️ This tool is a security research / incident response utility. It is not a replacement for Windows Defender, EDR solutions, or professional malware analysis tools. 
 
